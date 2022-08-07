@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ana Belén Gonzalvez</h1>
-<h3 align="center">A curious and newest Fullstack Developer from Argentina</h3>
+<header><img src='/images/portadagithub01.png' alt='mywelcomeimage'/></header>
+<h1 align="center">I'm Ana Belén Gonzalvez</h1>
+<h3 align="center">A curious Fullstack Developer Student from Argentina</h3>
 
-- 🔭 I’m currently studyng on [Henry](https://www.soyhenry.com/)
+- 🔭 I’m studyng on [Henry](https://www.soyhenry.com/)
 
 - 🌱 I’m currently learning **NodeJS, express, Jest, Mocha**
 
 - 📫 How to reach me **anaa.gonzalvez2@gmail.com**
-
-- 📄 Know about my experiences on [www.linkedin.com/in/anabeléngonzalvez](www.linkedin.com/in/anabeléngonzalvez)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
