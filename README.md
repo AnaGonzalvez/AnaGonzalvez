@@ -2,7 +2,7 @@
 <h1 align="center">I'm Ana Belén Gonzalvez</h1>
 <h3 align="center">A curious Fullstack Developer Student from Argentina</h3>
 
-- 🔭 I’m studyng on [Henry](https://www.soyhenry.com/)
+- 🔭 I’m studying on [Henry](https://www.soyhenry.com/)
 
 - 🌱 I’m currently learning **NodeJS, express, Jest, Mocha**
 
