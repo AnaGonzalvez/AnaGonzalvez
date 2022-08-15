@@ -1,4 +1,4 @@
-<header><img src='/portadagithub02.jpg' alt='mywelcomeimage'/></header>
+<header><img src='/portadagithub02.png' alt='mywelcomeimage'/></header>
 <h1 align="center">I'm Ana Belén Gonzalvez</h1>
 <h3 align="center">A curious Fullstack Developer Student from Argentina</h3>
 
