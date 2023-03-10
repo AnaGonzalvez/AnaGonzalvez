@@ -6,7 +6,7 @@
 
 - 🔭 I’d studied on [Henry](https://www.soyhenry.com/)
 
-- 🌱 I’m currently learning **NextJS, Dart, Jest, Mocha**
+- 🌱 I’m currently learning **Flutter, Dart, Go**
 
 - 📫 How to reach me: **anaa.gonzalvez2@gmail.com**
 
@@ -24,7 +24,8 @@
 <span>CSS  |</span>
 <span>React  |</span>
 <span>Redux  |</span>
-<span>Next.js  |</span>
+<span>Dart  |</span>
+<span>Flutter  |</span>
 <span>Node.js  |</span>
 <span>Express</span>
 </span>
