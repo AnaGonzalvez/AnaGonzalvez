@@ -6,7 +6,7 @@
 
 - 🔭 I’m working on [Thinksoft Argentina](https://thinksoft.com.ar)
 
-- 🌱 I’m currently working with **Go, PostgreSQL, Flutter, Dart**
+- 🌱 I’m currently developing code with **Go, PostgreSQL, Flutter, Dart**
 
 - 📫 How to reach me: **anaa.gonzalvez2@gmail.com**
 
