@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’d studied on [Henry](https://www.soyhenry.com/)
+- 🔭 I’m working on [Thinksoft Argentina](https://thinksoft.com.ar)
 
-- 🌱 I’m currently learning **Flutter, Dart, Go**
+- 🌱 I’m currently working with **Go, PostgreSQL, Flutter, Dart**
 
 - 📫 How to reach me: **anaa.gonzalvez2@gmail.com**
 
@@ -19,6 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <span align="center">
+<span>Go  |</span>
 <span>Javascript  |</span>
 <span>HTML  |</span>
 <span>CSS  |</span>
@@ -27,5 +28,6 @@
 <span>Dart  |</span>
 <span>Flutter  |</span>
 <span>Node.js  |</span>
+<span>PostgreSQL  |</span>
 <span>Express</span>
 </span>
